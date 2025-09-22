@@ -1,0 +1,11 @@
+{
+  "test_healpix.test_healpix_interpolated": "87c0ee7de3e83c6108e8272593ecb591a42c4a901760dc4534b613cfb94daaf5",
+  "test_healpix.test_healpix_pixels": "c321cd64ee6cf9327449383c10a036fee1173efec0304aa2753b0904a1f394f0",
+  "test_mulitple_layers.test_temperature_pressure": "8bcce6bfbb0869b6d211d564b0ffaa0b3132c511c9349dca62f24f60f1d2c055",
+  "test_mulitple_layers.test_efi_hatched": "0f8ee1621515493d89d3e201eaee3a20e0da1b20687197ba00b1fdd7d430da7b",
+  "test_named_domains.test_named_europe": "84117dc143f50b0bab9830dea96abd910418aad1fb05b227efce98da983ece31",
+  "test_named_domains.test_named_new_zealand": "8ed5aeb47158817204d17f6c877c60de3bc1094930764f9a401ae7d487a4d0ae",
+  "test_named_domains.test_named_africa": "e6427fecedc746aa60c0ac74d2239109e787ea79207f002383fb81d442810646",
+  "test_octahedral.test_octahedral_interpolated": "1a1fec3df80a8c3503630847860480be261ff00a61d12e2e3377ac154e1dc859",
+  "test_octahedral.test_octahedral_point_cloud": "3a85586b6dcab63ffea1c7475e616dc8f985c8672ebd472ed10ee946608c18a7"
+}
