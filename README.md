@@ -2,9 +2,11 @@
 
 This repository contains baseline images for the visual regression testing of [earthkit-plots](https://github.com/ecmwf/earthkit-plots). These images serve as reference points to ensure that plot generation remains consistent across code changes and releases.
 
+This repository is automatically cloned and used by the earthkit-plots testing suite. Most users don't need to interact with this repository directly.
+
 ## Purpose
 
-The baseline images in this repository are used by the earthkit-plots CI pipeline to:
+The baseline images in this repository are used by the earthkit-plots CI pipeline to perform:
 
 - **Visual regression testing**: Compare newly generated plots against established baselines
 - **Quality assurance**: Detect unintended changes in plot appearance
