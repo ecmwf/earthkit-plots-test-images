@@ -2,7 +2,8 @@
 
 This repository contains baseline images for the visual regression testing of [earthkit-plots](https://github.com/ecmwf/earthkit-plots). These images serve as reference points to ensure that plot generation remains consistent across code changes and releases.
 
-This repository is automatically cloned and used by the earthkit-plots testing suite. Most users don't need to interact with this repository directly.
+> \[!IMPORTANT\]
+> This repository is automatically cloned and used by the earthkit-plots testing suite. **Most users don't need to interact with this repository directly**.
 
 ## Purpose
 
